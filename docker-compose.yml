@@ -1,0 +1,4 @@
+services:
+  app:
+    image: tg_bot
+    restart: unless-stopped
